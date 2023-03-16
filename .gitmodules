@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "visStatistics"]
+	path = visStatistics
+	url = https://github.com/shhschilling/visstatistics
+	shallow = true
+	registered = true
